@@ -1,8 +1,3 @@
-Aqui está o `README.md` para o seu projeto:
-
----
-
-````markdown
 # AuthApp - Autenticação com Retrofit + Jetpack Compose
 
 Entrega da atividade prática da disciplina **Desenvolvimento para Dispositivos Móveis** (UFC), utilizando arquitetura MVVM, Retrofit, Jetpack Compose e DataStore para autenticação de usuários via API REST.
@@ -32,7 +27,7 @@ Entrega da atividade prática da disciplina **Desenvolvimento para Dispositivos 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/nauancastro/AuthApp.git
-````
+   ```
 
 2. Abra no Android Studio.
 
